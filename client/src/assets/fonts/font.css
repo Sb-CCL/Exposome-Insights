@@ -1,0 +1,33 @@
+@font-face {
+  font-family: "InterLight";
+  src: url("./Inter/static/Inter-Regular.ttf") format("truetype");
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Inter";
+  src: url("./Inter/static/Inter-Medium.ttf") format("truetype");
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "InterMedium";
+  src: url("./Inter/static/Inter-Medium.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "InterSemiBold";
+  src: url("./Inter/static/Inter-SemiBold.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "InterExtraBold";
+  src: url("./Inter/static/Inter-ExtraBold.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Poppins";
+  src: url("./Poppins/Poppins-Regular.ttf") format("truetype");
+}

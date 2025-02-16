@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".", // Specifies the root directory of the project
+    "paths": {
+      // Configures path mappings for module resolution
+      "@/*": ["./src/*"] // Maps all imports starting with "@/" to files inside the "src" directory
+    }
+  }
+}
