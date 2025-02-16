@@ -12,8 +12,8 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 [![Live Demo](https://img.shields.io/badge/vercel-live%20demo-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://exposome-insights.vercel.app/)
-
-![Project Screenshot](https://github.com/Sb-CCL/Exposome-Insights/blob/main/public/screenshot.png?raw=true)
+gi
+![Project Screenshot](https://github.com/Sb-CCL/Exposome-Insights/blob/main/client/public/screenshot.png?raw=true)
 
 The Ticketing System Project is a comprehensive web application designed to streamline the ticket management process. This application allows users to register, authenticate, create, and manage tickets efficiently. Built with modern technologies, it offers a secure and user-friendly experience.
 
