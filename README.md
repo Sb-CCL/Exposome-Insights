@@ -17,7 +17,7 @@
 
 The Ticketing System Project is a comprehensive web application designed to streamline the ticket management process. This application allows users to register, authenticate, create, and manage tickets efficiently. Built with modern technologies, it offers a secure and user-friendly experience.
 
-## ✨ Features
+## ✨ Key Features
 
 ### 🔒 Authentication System
 
@@ -38,6 +38,38 @@ The Ticketing System Project is a comprehensive web application designed to stre
 ### 👥 User Management
 
 - Secure registration/login workflows
+
+## ⚡ Quick Start
+
+### Prerequisites
+
+- **Node.js** (v16.x or higher)
+- **npm** (v8.x or higher) or Yarn (v1.22.x or higher)
+
+### Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/Sb-CCL/Exposome-Insights.git
+   cd Exposome-Insights
+   ```
+
+2. Install dependencies:
+
+   ```bash
+   npm install  # Using npm
+   # or
+   yarn # Using Yarn
+   ```
+
+3. Start the development server:
+
+   ```bash
+   npm run dev # Using npm
+   # or
+   yarn dev # Using Yarn
+   ```
 
 ## 🛠 Tech Stack
 
